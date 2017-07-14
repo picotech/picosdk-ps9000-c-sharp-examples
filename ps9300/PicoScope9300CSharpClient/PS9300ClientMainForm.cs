@@ -24,8 +24,7 @@ namespace PicoScope9300CSharpClient
         {
             // COM object of the oscilloscope 
             PicoSample3.COMRC COMRC;
-            // Assembly PicoScope9300.dll was created by Visual Basic IDE: 
-            // Project | Add Reference... | COM | PicoScope9000 
+            // Project | Add Reference... | COM | PicoSample 3 Type Library 
             public COMRCWrapper()
             {
                 COMRC = new PicoSample3.COMRC();
