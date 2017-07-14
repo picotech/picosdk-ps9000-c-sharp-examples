@@ -1,0 +1,6 @@
+# .gitattributes file for picosdk-ps9000-c-sharp-examples
+
+*.cs -crlf
+*.sln -crlf
+*.vcsproj -crlf
+*.rex -crlf
