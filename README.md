@@ -4,7 +4,7 @@
 
 Examples are provided as Microsoft Visual Studio Community 2017 solutions and are grouped according to whether the oscilloscope is a PicoScope 9200 Series or 9300 Series model.
 
-The example files use ActiveX to launch the appropriate *PicoScope9000* or *PicoSample* software application and run a presentation. The examples act as  ActiveX clients, while the corresponding *PicoScope9000* or *PicoSample* applications act as ActiveX servers.
+The example files use ActiveX to launch the appropriate *PicoScope9000* or *PicoSample* software application and run a presentation. The examples act as ActiveX clients, while the corresponding *PicoScope9000* or *PicoSample* applications act as ActiveX servers.
 
 ## Getting started
 
